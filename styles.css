@@ -1,1 +1,27 @@
+button{
+    color: blue;
+}
+
+body{
+    background-color:black;
+}
+p{
+    color: antiquewhite;
+}
+h1{
+    color: #c4161c;
+}
+h2{
+    color: gray;
+}
+.scroll-box {
+    width: 1000px; /* Set the width of the box */
+    height: 1000px; /* Set the fixed height of the box */
+    border: 1px solid #ccc; /* Add a visible border */
+    overflow: auto; /* Add scrollbars only when content overflows */
+    padding: 10px; /* Optional: Add some inner spacing */
+}
+h3{
+    color: #393939;
+}
 
